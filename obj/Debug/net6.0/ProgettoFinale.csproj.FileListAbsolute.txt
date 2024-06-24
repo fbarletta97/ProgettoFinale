@@ -1,0 +1,14 @@
+C:\Corso C#\ProgettoFinale\bin\Debug\net6.0\ProgettoFinale.exe
+C:\Corso C#\ProgettoFinale\bin\Debug\net6.0\ProgettoFinale.deps.json
+C:\Corso C#\ProgettoFinale\bin\Debug\net6.0\ProgettoFinale.runtimeconfig.json
+C:\Corso C#\ProgettoFinale\bin\Debug\net6.0\ProgettoFinale.dll
+C:\Corso C#\ProgettoFinale\bin\Debug\net6.0\ProgettoFinale.pdb
+C:\Corso C#\ProgettoFinale\obj\Debug\net6.0\ProgettoFinale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corso C#\ProgettoFinale\obj\Debug\net6.0\ProgettoFinale.AssemblyInfoInputs.cache
+C:\Corso C#\ProgettoFinale\obj\Debug\net6.0\ProgettoFinale.AssemblyInfo.cs
+C:\Corso C#\ProgettoFinale\obj\Debug\net6.0\ProgettoFinale.csproj.CoreCompileInputs.cache
+C:\Corso C#\ProgettoFinale\obj\Debug\net6.0\ProgettoFinale.dll
+C:\Corso C#\ProgettoFinale\obj\Debug\net6.0\refint\ProgettoFinale.dll
+C:\Corso C#\ProgettoFinale\obj\Debug\net6.0\ProgettoFinale.pdb
+C:\Corso C#\ProgettoFinale\obj\Debug\net6.0\ProgettoFinale.genruntimeconfig.cache
+C:\Corso C#\ProgettoFinale\obj\Debug\net6.0\ref\ProgettoFinale.dll
